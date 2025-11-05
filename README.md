@@ -72,7 +72,7 @@ cd                        # Change to home directory (no args)
 #### `echo` - Print Text
 ```bash
 echo Hello World          # Outputs: Hello World
-echo "Multiple words"     # Outputs: Multiple words
+echo "Multiple words"     # Outputs: Multiple words (Handling this one in a future version currently output will be: "Multiple words")
 ```
 
 #### `type` - Show Command Type
